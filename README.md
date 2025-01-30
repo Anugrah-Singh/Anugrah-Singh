@@ -13,4 +13,4 @@ I'm a freshmen studying computer science with a passion for coding and learning 
 
 Send me an email at anugrahsinngh.gmail.com or 
 find me on LinkedIn:https://www.linkedin.com/in/anugrah-singh-01a5b6325/  or 
-Twitter: https://x.com/AnugrahSingh_?t=LIdS3U_993HyjHWJWdF3Og&s=09.
+Twitter: https://x.com/anugahsingh
