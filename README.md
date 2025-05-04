@@ -4,9 +4,9 @@
 I'm a passionate developer who loves to create and collaborate. Welcome to my GitHub space where you can find my projects and contributions.
 
 ## 🔭 What I'm working on
-*Nirpeksh - A bias detecting AI news aggregator using LLM*
-*VaidyaBot - An AI doctor's assistant LLM based*
-*Drop-shipping - A drop-shipping website for a friend*
+*Nirpeksh*
+*VaidyaBot*
+*Drop-shipping*
 
 ## 💼 Skills & Technologies
 - Languages: JS, C++
@@ -26,7 +26,7 @@ I'm a passionate developer who loves to create and collaborate. Welcome to my Gi
 - LinkedIn: [Anugrah Singh](https://www.linkedin.com/in/anugrah-singh-a04b18356/)
 - Twitter/X: [@anugahsingh](https://x.com/anugahsingh)
 - Email: anugrahsinngh@gmail.com
-- Website: https://anugrahsingh.netlify.app/
+- Website: [https://anugrahsingh.netlify.app/](https://anugrahsingh.netlify.app/)
 
 ## ⚡ Fun fact
 *I'm into hip-hop dance and also I love cinematography*
