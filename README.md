@@ -1,16 +1,36 @@
-#Hello, my name is Anugrah Singh 👋.
+# Hi there, I'm Anugrah Singh 👋
 
+## About Me
+I'm a passionate developer who loves to create and collaborate. Welcome to my GitHub space where you can find my projects and contributions.
 
+## 🔭 What I'm working on
+*Nirpeksh - A bias detecting AI news aggregator using LLM*
+*VaidyaBot - An AI doctor's assistant LLM based*
+*Drop-shipping - A drop-shipping website for a friend*
 
-## About me: 
+## 💼 Skills & Technologies
+- Languages: JS, C++
+- Frameworks: ReactJS, vite
+- Tools: Redux toolkit
+- Databases: MySQL
 
-I'm a freshmen studying computer science with a passion for coding and learning new things. Right now, I'm learning C, DSA and Frontend. 
+## 🌱 I'm currently learning
+*Machine Learning*
 
+## 👯 I'm looking to collaborate on
+*Web Dev*
+*Machine Learning*
 
+## 📫 How to reach me
+*For example:*
+- LinkedIn: [Anugrah Singh](https://www.linkedin.com/in/anugrah-singh-a04b18356/)
+- Twitter/X: [@anugahsingh](https://x.com/anugahsingh)
+- Email: anugrahsinngh@gmail.com
+- Website: https://anugrahsingh.netlify.app/
 
+## ⚡ Fun fact
+*I'm into hip-hop dance and also I love cinematography*
 
-## Get in touch with me: 
-
-Send me an email at anugrahsinngh.gmail.com or 
-find me on LinkedIn:https://www.linkedin.com/in/anugrah-singh-01a5b6325/  or 
-Twitter: https://x.com/anugahsingh
+## 🏆 Projects I'm proud of
+*Nirpeksh - A bias detecting AI news aggregator using LLM*
+*VaidyaBot - An AI doctor's assistant LLM based*
