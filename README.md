@@ -22,7 +22,7 @@ I'm a passionate developer who loves to create and collaborate. Welcome to my Gi
 *Machine Learning*
 
 ## 📫 How to reach me
-*For example:*
+
 - LinkedIn: [Anugrah Singh](https://www.linkedin.com/in/anugrah-singh-a04b18356/)
 - Twitter/X: [@anugahsingh](https://x.com/anugahsingh)
 - Email: anugrahsinngh@gmail.com
