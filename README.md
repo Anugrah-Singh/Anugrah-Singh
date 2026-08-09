@@ -1,36 +1,50 @@
-# Hi there, I'm Anugrah Singh 👋
+# Hi 👋, I'm Augrah Singh
 
-## About Me
-I'm a passionate developer who loves to create and collaborate. Welcome to my GitHub space where you can find my projects and contributions.
+### TypeScript Full-Stack Developer | React • Node.js • PostgreSQL
 
-## 🔭 What I'm working on
-*Nirpeksh*
-*VaidyaBot*
-*Drop-shipping*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anugrah-Singh&label=Profile views&color=0e75b6&style=flat" alt="Anugrah-Singh" /> </p>
 
-## 💼 Skills & Technologies
-- Languages: JS, C++
-- Frameworks: ReactJS, vite
-- Tools: Redux toolkit
-- Databases: MySQL
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anugrah-Singh" alt="Anugrah-Singh" /></a> </p>
 
-## 🌱 I'm currently learning
-*Machine Learning*
+<p align="left"> <a href="https://twitter.com/anugahsingh" target="blank"><img src="https://img.shields.io/twitter/follow/anugahsingh?logo=twitter&style=for-the-badge" alt="anugahsingh" /></a> </p>
 
-## 👯 I'm looking to collaborate on
-*Web Dev*
-*Machine Learning*
+- 🔭 I'm currently working on **Building full-stack applications with React, TypeScript, Node.js, Express, PostgreSQL, and AI/LLM integrations, including projects like AI Hunger Games and a Coordra.**
 
-## 📫 How to reach me
+- 🌱 I'm currently learning **Deepening my knowledge of full-stack system design, backend architecture, PostgreSQL, testing, CI/CD, security, real-time systems, and production deployment.**
 
-- LinkedIn: [Anugrah Singh](https://www.linkedin.com/in/anugrah-singh-a04b18356/)
-- Twitter/X: [@anugahsingh](https://x.com/anugahsingh)
-- Email: anugrahsinngh@gmail.com
-- Website: [https://anugrahsingh.netlify.app/](https://anugrahsingh.netlify.app/)
+- 👯 I'm looking to collaborate on **Interesting full-stack, SaaS, open-source, developer tools, and AI-powered projects where I can build, learn, and contribute.**
 
-## ⚡ Fun fact
-*I'm into hip-hop dance and also I love cinematography*
+- 🤝 I'm looking for help with **Learning more about scalable system design, production-grade architecture, advanced backend engineering, and building better developer experiences.**
 
-## 🏆 Projects I'm proud of
-*Nirpeksh - A bias detecting AI news aggregator using LLM*
-*VaidyaBot - An AI doctor's assistant LLM based*
+- 💬 Ask me about **React, TypeScript, Node.js, Express, PostgreSQL, REST APIs, SaaS applications, LLM integrations, CI/CD, or what I’m currently building.**
+
+- 📫 How to reach me **anugrahsinngh@gmail.com**
+
+- ⚡ Fun fact **I enjoy turning slightly weird ideas into real software — like making 8 AI personalities compete, vote, evolve, and eliminate each other.**
+
+- 👨‍💻 All of my projects are available at **[https://anugrah-singh.github.io/](https://anugrah-singh.github.io/)**
+
+- 📝 I regularly write articles on **[https://hashnode.com/@anugrahsingh](https://hashnode.com/@anugrahsingh)**
+
+- 📄 Know about my experiences **[https://drive.google.com/drive/folders/1l5B5rf1Jvut48M40x68nILqbIUJ50R6V?usp=drive_link](https://drive.google.com/drive/folders/1l5B5rf1Jvut48M40x68nILqbIUJ50R6V?usp=drive_link)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Anugrah-Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Anugrah-Singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/anugrahsinngh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anugrahsinngh" height="30" width="40" /></a>
+<a href="https://instagram.com/anugrahsinngh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anugrahsinngh" height="30" width="40" /></a>
+<a href="https://twitter.com/anugahsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anugahsingh" height="30" width="40" /></a>
+<a href="https://medium.com/@anugrahsinngh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anugrahsinngh" height="30" width="40" /></a>
+<a href="https://leetcode.com/Anugrah-Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anugrah-Singh" height="30" width="40" /></a>
+<a href="https://discord.gg/anugrahsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anugrahsingh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/appwrite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=appwrite" alt="appwrite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anugrah-Singh&show_icons=true&locale=en&layout=compact" alt="Anugrah-Singh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anugrah-Singh&show_icons=true&locale=en" alt="Anugrah-Singh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anugrah-Singh&" alt="Anugrah-Singh" /></p>
+
