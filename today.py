@@ -444,7 +444,7 @@ if __name__ == '__main__':
     formatter('account data', user_time)
     
     # You might want to change this to your actual birthday
-    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2000, 1, 1))
+    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2006, 8, 9))
     formatter('age calculation', age_time)
     
     total_loc, loc_time = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
@@ -467,7 +467,7 @@ if __name__ == '__main__':
 
     for index in range(len(total_loc)-1): total_loc[index] = '{:,}'.format(total_loc[index])
 
-    svg_overwrite('dark_mode.svg', age_data, commit_data, star_data, repo_data, contrib_data, follower_data, total_loc[:-1])
+
     svg_overwrite('light_mode.svg', age_data, commit_data, star_data, repo_data, contrib_data, follower_data, total_loc[:-1])
 
     print('\033[F\033[F\033[F\033[F\033[F\033[F\033[F\033[F',
