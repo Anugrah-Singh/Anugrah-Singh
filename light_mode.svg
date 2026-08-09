@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="950px" height="450px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="450px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="950px" height="450px" fill="#f6f8fa" rx="15"/>
+<rect width="985px" height="450px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="55" fill="#24292f" class="ascii" font-size="6px">
 <tspan x="15" y="55">*                                                                                                 + </tspan>
 <tspan x="15" y="61">*                                                                                                 ++</tspan>
@@ -85,23 +85,23 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="445">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%##%          +#%%@@@@@@@@@@%@@@%%%%%###****###%%%%%%%%%%%%%</tspan>
 </text>
 <text x="350" y="30" fill="#24292f">
-<tspan x="350" y="30">Anugrah-Singh</tspan> -————————————————————————————————————————————-—-
-<tspan x="350" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux</tspan>
-<tspan x="350" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................... </tspan><tspan class="value" id="age_data">20 years</tspan>
-<tspan x="350" y="90" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">VSCode</tspan>
+<tspan x="350" y="30">Anugrah-Singh</tspan> -—————————————————————————————————————————————-—-
+<tspan x="350" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Linux</tspan>
+<tspan x="350" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................ </tspan><tspan class="value" id="age_data">20 years</tspan>
+<tspan x="350" y="90" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">VSCode</tspan>
 <tspan x="350" y="110" class="cc">. </tspan>
-<tspan x="350" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Javascript, Typescript, Python, C, C++, JAVA</tspan>
-<tspan x="350" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">HTML, CSS</tspan>
-<tspan x="350" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">English, Hindi</tspan>
+<tspan x="350" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Javascript, Typescript, Python, C, C++, JAVA</tspan>
+<tspan x="350" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">HTML, CSS</tspan>
+<tspan x="350" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">English, Hindi</tspan>
 <tspan x="350" y="190" class="cc">. </tspan>
-<tspan x="350" y="210" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Cloud, Devops</tspan>
-<tspan x="350" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Edge AI, Homelabbing</tspan>
+<tspan x="350" y="210" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Cloud, Devops</tspan>
+<tspan x="350" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Edge AI, Homelabbing</tspan>
 <tspan x="350" y="250" class="cc">. </tspan>
 <tspan x="350" y="270">- Contact</tspan> -—————————————————————————————————————————————-—-
-<tspan x="350" y="290" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................. </tspan><a href="https://anugrah-singh.github.io/" target="_blank"><tspan class="value">https://anugrah-singh.github.io/</tspan></a>
-<tspan x="350" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">anugrahsinngh@gmail.com</tspan>
-<tspan x="350" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">anugrahsinngh</tspan>
-<tspan x="350" y="350" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">anugrahsingh</tspan>
-<tspan x="350" y="370" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">anugrahsingh</tspan>
+<tspan x="350" y="290" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ............. </tspan><a href="https://anugrah-singh.github.io/" target="_blank"><tspan class="value">https://anugrah-singh.github.io/</tspan></a>
+<tspan x="350" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">anugrahsinngh@gmail.com</tspan>
+<tspan x="350" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">anugrahsinngh</tspan>
+<tspan x="350" y="350" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">anugrahsingh</tspan>
+<tspan x="350" y="370" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">anugrahsingh</tspan>
 </text>
 </svg>
