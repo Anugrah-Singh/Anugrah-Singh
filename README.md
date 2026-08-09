@@ -2,9 +2,10 @@
 
 ### TypeScript Full-Stack Developer | React • Node.js • PostgreSQL
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anugrah-Singh&label=Profile views&color=0e75b6&style=flat" alt="Anugrah-Singh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anugrah-Singh" alt="Anugrah-Singh" /></a> </p>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Anugrah-Singh?label=Followers&style=flat" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Anugrah-Singh?affiliations=OWNER&label=Stars&style=flat" alt="GitHub stars" />
+</p>
 
 <p align="left"> <a href="https://twitter.com/anugahsingh" target="blank"><img src="https://img.shields.io/twitter/follow/anugahsingh?logo=twitter&style=for-the-badge" alt="anugahsingh" /></a> </p>
 
